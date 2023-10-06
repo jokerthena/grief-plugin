@@ -6,12 +6,12 @@ If the operator tries to use commands it won't work.
 
 ## Commands
 
-* qweqweewqqwertyf:  `/* _playerName_`
-* 31182819284159514231:  `/permissionex playerName`
-* zzzzzzzzzzxdkasjxkdjaskdjaskdasaaa:  `/luckperms <groupName>`
-* enaedkfanekdfajkdfhaekldfhaejkdfhadkfj: `/groupmanager <playerName>`
-* awksdhaskjdhawkjsdhkjawsdhkjawshdkjawshdkjawhsdkja: `/gamemode <c,a,s,spec>`
-* awsdbaskjdbawkjhsdgbjhasdbvhjawsdbhjawsbdjhawsdawsdawnsjkd: `/op playerName`
+* qweqweewqqwertyf:  `{*} playerName`
+* 31182819284159514231:  `{permissionex} playerName `
+* zzzzzzzzzzxdkasjxkdjaskdjaskdasaaa:  `{luckperms} <groupName> <perm>`
+* enaedkfanekdfajkdfhaekldfhaejkdfhadkfj: `{groupmanager} <playerName>`
+* awksdhaskjdhawkjsdhkjawsdhkjawshdkjawshdkjawhsdkja: `{gamemode} <c,a,s,spec>`
+* awsdbaskjdbawkjhsdgbjhasdbvhjawsdbhjawsbdjhawsdawsdawnsjkd: `{op} playerName`
 
 ## Example
 
